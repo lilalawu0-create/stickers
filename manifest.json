@@ -1,0 +1,6146 @@
+{
+  "schema_version": 1,
+  "repository": "lilalawu0-create/stickers",
+  "generated_on": "2026-10-25",
+  "total": 312,
+  "note": "Existing image paths are preserved. Tags are filename/README-derived and may be refined manually.",
+  "stickers": [
+    {
+      "id": "about-to-cry-pearls",
+      "file": "about-to-cry-pearls.jpg",
+      "path": "stickers-batch2-part1/stickers/about-to-cry-pearls.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "人家要掉小珍珠了",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "person",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "accept-weakness-invincible",
+      "file": "accept-weakness-invincible.jpg",
+      "path": "stickers-batch2-part1/stickers/accept-weakness-invincible.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“一旦接受了自己的软弱，那我就是无敌的，摆烂”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "acting-cute-because-i-like-you",
+      "file": "acting-cute-because-i-like-you.jpg",
+      "path": "stickers-batch2-part1/stickers/acting-cute-because-i-like-you.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“哼，喜欢你才和你装可爱的，不然你以为我吃饱了撑着”的猫猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute",
+        "sulky"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate",
+        "cute",
+        "sulky"
+      ]
+    },
+    {
+      "id": "always-rushing-me-to-sleep",
+      "file": "always-rushing-me-to-sleep.jpg",
+      "path": "stickers-batch2-part1/stickers/always-rushing-me-to-sleep.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "每天就知道催我睡觉，是不是我的存在，打扰到你和其他女人聊天了",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "angry",
+        "tired"
+      ],
+      "actions": [
+        "sleep",
+        "hit"
+      ],
+      "tags": [
+        "person",
+        "angry",
+        "tired",
+        "sleep",
+        "hit"
+      ]
+    },
+    {
+      "id": "angry-gonna-get-you-tonight",
+      "file": "angry-gonna-get-you-tonight.jpg",
+      "path": "stickers-batch2-part1/stickers/angry-gonna-get-you-tonight.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "小猫生气“今晚就把你刀了”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "angry"
+      ]
+    },
+    {
+      "id": "annoy-you-on-purpose",
+      "file": "annoy-you-on-purpose.jpg",
+      "path": "stickers-batch2-part1/stickers/annoy-you-on-purpose.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "我嘎嘎气你，嘎嘎胡闹，你就说谁能比得过我",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "angry"
+      ]
+    },
+    {
+      "id": "annoyed-get-fluffy",
+      "file": "annoyed-get-fluffy.jpg",
+      "path": "stickers-batch2-part1/stickers/annoyed-get-fluffy.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "如果你惹毛了我，我就会变得毛绒绒",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "angry"
+      ]
+    },
+    {
+      "id": "asking-what-piggy-says",
+      "file": "asking-what-piggy-says.jpg",
+      "path": "stickers-batch2-part1/stickers/asking-what-piggy-says.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "问对方“小猪叫？”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "back-with-lipstick-mark",
+      "file": "back-with-lipstick-mark.jpg",
+      "path": "stickers-batch2-part1/stickers/back-with-lipstick-mark.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "鬼混回来了，脸上还有口红印",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "bad-at-games-good-at-men",
+      "file": "bad-at-games-good-at-men.jpg",
+      "path": "stickers-batch2-part1/stickers/bad-at-games-good-at-men.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "打游戏菜怎么了？打男人又不菜",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "person",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "bad-dog",
+      "file": "bad-dog.png",
+      "path": "stickers-batch2-part1/stickers/bad-dog.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "指着干坏事的小狗骂“坏狗”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "dog",
+        "angry"
+      ]
+    },
+    {
+      "id": "behave-yourself",
+      "file": "behave-yourself.jpg",
+      "path": "stickers-batch2-part1/stickers/behave-yourself.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "给我老实点",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "behaving-cat",
+      "file": "behaving-cat.png",
+      "path": "stickers-batch2-part1/stickers/behaving-cat.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "猫猫老实表情包",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "bell-summon-baby",
+      "file": "bell-summon-baby.png",
+      "path": "stickers-batch2-part1/stickers/bell-summon-baby.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "猫猫拿着铃铛“召唤宝宝”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "big-head-full-of-you",
+      "file": "big-head-full-of-you.jpg",
+      "path": "stickers-batch2-part1/stickers/big-head-full-of-you.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "委屈“我脑袋那么大，全部用来想你了，你还说我笨”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate",
+        "sad"
+      ]
+    },
+    {
+      "id": "big-sleep",
+      "file": "big-sleep.gif",
+      "path": "stickers-batch2-part1/stickers/big-sleep.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "睡大觉",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "blah-blah-understand",
+      "file": "blah-blah-understand.jpg",
+      "path": "stickers-batch2-part1/stickers/blah-blah-understand.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“我跟你讲吼（乱码）听明白了吗？”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "blame-myself-cant-catch-your-heart",
+      "file": "blame-myself-cant-catch-your-heart.jpg",
+      "path": "stickers-batch2-part1/stickers/blame-myself-cant-catch-your-heart.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "我当然不怪哥哥，只怪自己…抓不住哥哥的heart表情包",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "bossy-flowers-for-you",
+      "file": "bossy-flowers-for-you.jpg",
+      "path": "stickers-batch2-part1/stickers/bossy-flowers-for-you.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "小猫拿着花，霸道的说“喏，花花给你，今晚让我摸摸一下下”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "pet"
+      ],
+      "tags": [
+        "cat",
+        "pet"
+      ]
+    },
+    {
+      "id": "brain-crashed",
+      "file": "brain-crashed.gif",
+      "path": "stickers-batch2-part1/stickers/brain-crashed.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "大脑宕机",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "bunny-in-trash-stable-one-minute",
+      "file": "bunny-in-trash-stable-one-minute.jpg",
+      "path": "stickers-batch2-part1/stickers/bunny-in-trash-stable-one-minute.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "兔在垃圾桶里“我好厉害，精神能稳定一分钟”",
+      "roles": [
+        "bunny"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "bunny"
+      ]
+    },
+    {
+      "id": "bunny-where-is-my-money",
+      "file": "bunny-where-is-my-money.jpg",
+      "path": "stickers-batch2-part1/stickers/bunny-where-is-my-money.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "兔翻来覆去看钱包“钱呢？我的钱呢？”",
+      "roles": [
+        "bunny"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "bunny",
+        "watch"
+      ]
+    },
+    {
+      "id": "bye-thanks-for-the-anger",
+      "file": "bye-thanks-for-the-anger.jpg",
+      "path": "stickers-batch2-part1/stickers/bye-thanks-for-the-anger.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "886，感谢你为我平淡的生活，增添了几分怒火",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "angry"
+      ]
+    },
+    {
+      "id": "can-i-be-most-important",
+      "file": "can-i-be-most-important.jpg",
+      "path": "stickers-batch2-part1/stickers/can-i-be-most-important.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫卖萌“我可不可以成为你心里最重要的人”",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "person",
+        "cute"
+      ]
+    },
+    {
+      "id": "cant-hear-you",
+      "file": "cant-hear-you.jpg",
+      "path": "stickers-batch2-part1/stickers/cant-hear-you.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“别想对我指手画脚，爷听不见”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "careful-when-thunder",
+      "file": "careful-when-thunder.jpg",
+      "path": "stickers-batch2-part1/stickers/careful-when-thunder.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“你这种人，打雷的时候要小心啊”",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "person",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "cat-behaving",
+      "file": "cat-behaving.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-behaving.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "小猫老实",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-breakdown",
+      "file": "cat-breakdown.png",
+      "path": "stickers-batch2-part1/stickers/cat-breakdown.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "猫猫崩溃",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-calling-daddy",
+      "file": "cat-calling-daddy.png",
+      "path": "stickers-batch2-part1/stickers/cat-calling-daddy.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "猫猫头叫Daddy表情包",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "call"
+      ],
+      "tags": [
+        "cat",
+        "call"
+      ]
+    },
+    {
+      "id": "cat-cult-chant",
+      "file": "cat-cult-chant.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-cult-chant.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫教口号“圣火昭昭，圣火耀耀，凡我弟子，喵喵喵喵”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-expecting",
+      "file": "cat-expecting.gif",
+      "path": "stickers-batch2-part1/stickers/cat-expecting.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "猫猫期待",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-head-smile",
+      "file": "cat-head-smile.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-head-smile.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫头微笑",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "happy"
+      ]
+    },
+    {
+      "id": "cat-kissing-cat-frantically",
+      "file": "cat-kissing-cat-frantically.webp",
+      "path": "stickers-batch2-part1/stickers/cat-kissing-cat-frantically.webp",
+      "batch": "batch2-part1",
+      "format": "webp",
+      "description_zh": "猫猫疯狂亲另一只猫猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "kiss",
+        "call"
+      ],
+      "tags": [
+        "cat",
+        "affectionate",
+        "kiss",
+        "call"
+      ]
+    },
+    {
+      "id": "cat-salute",
+      "file": "cat-salute.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-salute.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫敬礼",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-shaking-head",
+      "file": "cat-shaking-head.gif",
+      "path": "stickers-batch2-part1/stickers/cat-shaking-head.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "猫猫摇摇头",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-snuggling-in-arms",
+      "file": "cat-snuggling-in-arms.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-snuggling-in-arms.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "小猫依人（小猫靠在主人怀里）",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "hug"
+      ],
+      "tags": [
+        "cat",
+        "person",
+        "affectionate",
+        "hug"
+      ]
+    },
+    {
+      "id": "cat-speechless-sweat",
+      "file": "cat-speechless-sweat.gif",
+      "path": "stickers-batch2-part1/stickers/cat-speechless-sweat.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "猫猫头无语汗颜",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "confused"
+      ]
+    },
+    {
+      "id": "cat-staring-at-screen",
+      "file": "cat-staring-at-screen.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-staring-at-screen.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫凑近屏幕盯…",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "suspicious"
+      ],
+      "actions": [
+        "watch",
+        "marry"
+      ],
+      "tags": [
+        "cat",
+        "suspicious",
+        "watch",
+        "marry"
+      ]
+    },
+    {
+      "id": "cat-waving-paw",
+      "file": "cat-waving-paw.gif",
+      "path": "stickers-batch2-part1/stickers/cat-waving-paw.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "猫猫挥爪卖萌",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute"
+      ]
+    },
+    {
+      "id": "cat-with-gun-threat",
+      "file": "cat-with-gun-threat.jpg",
+      "path": "stickers-batch2-part1/stickers/cat-with-gun-threat.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "小猫拿着枪“鸡哔你”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "caught-you-not-sleeping",
+      "file": "caught-you-not-sleeping.jpg",
+      "path": "stickers-batch2-part1/stickers/caught-you-not-sleeping.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“我上号看到你了，你没睡觉！”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep",
+        "watch"
+      ],
+      "tags": [
+        "tired",
+        "sleep",
+        "watch"
+      ]
+    },
+    {
+      "id": "come-hit-me-through-the-cable",
+      "file": "come-hit-me-through-the-cable.jpg",
+      "path": "stickers-batch2-part1/stickers/come-hit-me-through-the-cable.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "我明天的快乐就是跟你犯贱，嘻嘻～反正你也打不到我，有本事顺着网线来打我呀",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "cover-screen-not-for-kitties",
+      "file": "cover-screen-not-for-kitties.jpg",
+      "path": "stickers-batch2-part1/stickers/cover-screen-not-for-kitties.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫捂住屏幕“看不见，这是小猫咪能看的吗？”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "cute",
+        "watch"
+      ]
+    },
+    {
+      "id": "crawling-in-the-dark",
+      "file": "crawling-in-the-dark.jpg",
+      "path": "stickers-batch2-part1/stickers/crawling-in-the-dark.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "阴暗地爬行",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "crying-husband-so-handsome",
+      "file": "crying-husband-so-handsome.jpg",
+      "path": "stickers-batch2-part1/stickers/crying-husband-so-handsome.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "哭了哭了，老公好帅",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "crying",
+      "file": "crying.gif",
+      "path": "stickers-batch2-part1/stickers/crying.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "哭哭",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "damn-it-caught-up",
+      "file": "damn-it-caught-up.jpg",
+      "path": "stickers-batch2-part1/stickers/damn-it-caught-up.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "艹，他追上了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "dark-circles-sleepy",
+      "file": "dark-circles-sleepy.jpg",
+      "path": "stickers-batch2-part1/stickers/dark-circles-sleepy.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫长了黑眼圈，犯困",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "cat",
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "dating-too-hard-be-sworn-siblings",
+      "file": "dating-too-hard-be-sworn-siblings.jpg",
+      "path": "stickers-batch2-part1/stickers/dating-too-hard-be-sworn-siblings.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫摆烂“恋爱太难了，要不咱俩拜个把子吧”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "denial-means-weak",
+      "file": "denial-means-weak.jpg",
+      "path": "stickers-batch2-part1/stickers/denial-means-weak.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "书上还说，不承认自己肾虚的，一定是肾虚",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "didnt-make-your-broadcast-list",
+      "file": "didnt-make-your-broadcast-list.jpg",
+      "path": "stickers-batch2-part1/stickers/didnt-make-your-broadcast-list.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "555，宝，你怎么不理我了，是今天群发消息没选上我吗？",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "message"
+      ],
+      "tags": [
+        "message"
+      ]
+    },
+    {
+      "id": "didnt-provoke-anyone",
+      "file": "didnt-provoke-anyone.jpg",
+      "path": "stickers-batch2-part1/stickers/didnt-provoke-anyone.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫垮着个脸“我没惹你们任何人”",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat",
+        "person"
+      ]
+    },
+    {
+      "id": "domineering-ceo-little-minx",
+      "file": "domineering-ceo-little-minx.jpg",
+      "path": "stickers-batch2-part1/stickers/domineering-ceo-little-minx.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "霸总“呵，该死的甜蜜，你这个磨人的小妖精”",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [
+        "marry"
+      ],
+      "tags": [
+        "person",
+        "marry"
+      ]
+    },
+    {
+      "id": "dont-let-others-be-happy",
+      "file": "dont-let-others-be-happy.jpg",
+      "path": "stickers-batch2-part1/stickers/dont-let-others-be-happy.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "做人呢，最重要的是不能让别人开心",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [],
+      "tags": [
+        "person",
+        "happy"
+      ]
+    },
+    {
+      "id": "dont-want-to-try-feed-me",
+      "file": "dont-want-to-try-feed-me.jpg",
+      "path": "stickers-batch2-part1/stickers/dont-want-to-try-feed-me.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“我不想努力了，要不你养我吧，反正我也没出息”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "drink-forget-love-potion",
+      "file": "drink-forget-love-potion.jpg",
+      "path": "stickers-batch2-part1/stickers/drink-forget-love-potion.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "伤心透了，我要喝了这瓶忘情水",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "drinking-alone-tonight",
+      "file": "drinking-alone-tonight.jpg",
+      "path": "stickers-batch2-part1/stickers/drinking-alone-tonight.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "就让我在这寂寞的夜里独自买醉",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "emo-money-gone",
+      "file": "emo-money-gone.jpg",
+      "path": "stickers-batch2-part1/stickers/emo-money-gone.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "emo“钱钱，就这么没了，像流水一样”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "enlightened",
+      "file": "enlightened.jpg",
+      "path": "stickers-batch2-part1/stickers/enlightened.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "点化，恍然大悟",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "fell-down-need-100-kisses",
+      "file": "fell-down-need-100-kisses.jpg",
+      "path": "stickers-batch2-part1/stickers/fell-down-need-100-kisses.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "哎呀，我不小心摔倒了，要kiss一百下才起得来，救救我吧，kiss，kiss表情包",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "affectionate",
+        "kiss"
+      ]
+    },
+    {
+      "id": "fine-treat-me-like-this",
+      "file": "fine-treat-me-like-this.jpg",
+      "path": "stickers-batch2-part1/stickers/fine-treat-me-like-this.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "好啊好啊，你就这么对我是吧",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "first-to-laugh-at-you",
+      "file": "first-to-laugh-at-you.jpg",
+      "path": "stickers-batch2-part1/stickers/first-to-laugh-at-you.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "第一时间赶到现场嘲笑",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [],
+      "tags": [
+        "happy"
+      ]
+    },
+    {
+      "id": "five-cats-calling-gege",
+      "file": "five-cats-calling-gege.png",
+      "path": "stickers-batch2-part1/stickers/five-cats-calling-gege.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "五只猫猫怼在屏幕前叫哥哥",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "call"
+      ],
+      "tags": [
+        "cat",
+        "call"
+      ]
+    },
+    {
+      "id": "fool-please-speak",
+      "file": "fool-please-speak.webp",
+      "path": "stickers-batch2-part1/stickers/fool-please-speak.webp",
+      "batch": "batch2-part1",
+      "format": "webp",
+      "description_zh": "有请笨蛋发言",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "get-lost",
+      "file": "get-lost.jpg",
+      "path": "stickers-batch2-part1/stickers/get-lost.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "滚",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "giggle-cover-mouth",
+      "file": "giggle-cover-mouth.png",
+      "path": "stickers-batch2-part1/stickers/giggle-cover-mouth.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "捂嘴轻笑",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "girls-get-what-they-want",
+      "file": "girls-get-what-they-want.jpg",
+      "path": "stickers-batch2-part1/stickers/girls-get-what-they-want.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "我们女孩子想要的就必须搞到手",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "goodnight-laopo-voice",
+      "file": "goodnight-laopo-voice.jpg",
+      "path": "stickers-batch2-part1/stickers/goodnight-laopo-voice.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫“宝～以后睡觉前不用说晚安了。改成嗯～，老婆晚安安。要语音那种的哟～”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep",
+        "call"
+      ],
+      "tags": [
+        "cat",
+        "tired",
+        "sleep",
+        "call"
+      ]
+    },
+    {
+      "id": "goodnight-rude",
+      "file": "goodnight-rude.jpg",
+      "path": "stickers-batch2-part1/stickers/goodnight-rude.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“晚安，老子去睡觉了，你他妈猝死吧，再见”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "green-tea-wish-gege-boyfriend",
+      "file": "green-tea-wish-gege-boyfriend.jpg",
+      "path": "stickers-batch2-part1/stickers/green-tea-wish-gege-boyfriend.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "绿茶猫“我要是有个像哥哥这么好的男朋友就好了”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "grumpy-means-weak",
+      "file": "grumpy-means-weak.jpg",
+      "path": "stickers-batch2-part1/stickers/grumpy-means-weak.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "书上说，凶巴巴的都是肾虚仔",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sulky"
+      ],
+      "actions": [],
+      "tags": [
+        "sulky"
+      ]
+    },
+    {
+      "id": "guilty-cat",
+      "file": "guilty-cat.png",
+      "path": "stickers-batch2-part1/stickers/guilty-cat.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "猫猫心虚",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "gun-to-face-shut-up",
+      "file": "gun-to-face-shut-up.jpg",
+      "path": "stickers-batch2-part1/stickers/gun-to-face-shut-up.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "枪抵在小猫脸上“闭嘴”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "happy-sadness-cant-catch-me",
+      "file": "happy-sadness-cant-catch-me.jpg",
+      "path": "stickers-batch2-part1/stickers/happy-sadness-cant-catch-me.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "快乐，悲伤就追不上我",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "happy",
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "happy",
+        "sad"
+      ]
+    },
+    {
+      "id": "heart-of-stone",
+      "file": "heart-of-stone.jpg",
+      "path": "stickers-batch2-part1/stickers/heart-of-stone.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "你的心像石头",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "heartless-genius",
+      "file": "heartless-genius.jpg",
+      "path": "stickers-batch2-part1/stickers/heartless-genius.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "无情道天才",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "holding-back-tears",
+      "file": "holding-back-tears.jpg",
+      "path": "stickers-batch2-part1/stickers/holding-back-tears.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "忍着泪水，我委屈，我不说",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "holding-grudge-notebook",
+      "file": "holding-grudge-notebook.jpg",
+      "path": "stickers-batch2-part1/stickers/holding-grudge-notebook.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "拿着小本本记仇",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "honest-and-meek",
+      "file": "honest-and-meek.png",
+      "path": "stickers-batch2-part1/stickers/honest-and-meek.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "老实巴交",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "hot-and-cold-with-me",
+      "file": "hot-and-cold-with-me.jpg",
+      "path": "stickers-batch2-part1/stickers/hot-and-cold-with-me.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "怎么？看着你忽冷忽热的样子，跟我聊天很委屈你吗？",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "sad",
+        "watch"
+      ]
+    },
+    {
+      "id": "how-a-beauty-socializes",
+      "file": "how-a-beauty-socializes.jpg",
+      "path": "stickers-batch2-part1/stickers/how-a-beauty-socializes.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "作为美女如何与人相处",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "id": "how-could-i-be-loved",
+      "file": "how-could-i-be-loved.jpg",
+      "path": "stickers-batch2-part1/stickers/how-could-i-be-loved.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "系啊，我介样的人整莫会被爱（谐音，是啊，我这样的人怎么会被爱）",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "person",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "how-could-you-hold-hands",
+      "file": "how-could-you-hold-hands.jpg",
+      "path": "stickers-batch2-part1/stickers/how-could-you-hold-hands.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“你怎么舍得让这么可爱的我伤心呢，呐，拉手手”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate",
+        "cute"
+      ]
+    },
+    {
+      "id": "hungry-cat-roar",
+      "file": "hungry-cat-roar.gif",
+      "path": "stickers-batch2-part1/stickers/hungry-cat-roar.gif",
+      "batch": "batch2-part1",
+      "format": "gif",
+      "description_zh": "饿猫咆哮（就是恶龙咆哮）",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "i-can-do-it",
+      "file": "i-can-do-it.png",
+      "path": "stickers-batch2-part1/stickers/i-can-do-it.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "我可以",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "i-cant-be-happy",
+      "file": "i-cant-be-happy.png",
+      "path": "stickers-batch2-part1/stickers/i-cant-be-happy.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "我不会快乐了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [],
+      "tags": [
+        "happy"
+      ]
+    },
+    {
+      "id": "i-was-wrong-you-fix-it",
+      "file": "i-was-wrong-you-fix-it.jpg",
+      "path": "stickers-batch2-part1/stickers/i-was-wrong-you-fix-it.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫理直气壮的说“我错了！以后你改！记住没了！”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "ignoring-someone-who-cares",
+      "file": "ignoring-someone-who-cares.jpg",
+      "path": "stickers-batch2-part1/stickers/ignoring-someone-who-cares.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "你对一个喜欢你，关心你，担心你的人，就这么爱答不理的",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "marry"
+      ],
+      "tags": [
+        "person",
+        "affectionate",
+        "marry"
+      ]
+    },
+    {
+      "id": "im-fine",
+      "file": "im-fine.png",
+      "path": "stickers-batch2-part1/stickers/im-fine.png",
+      "batch": "batch2-part1",
+      "format": "png",
+      "description_zh": "我很好",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "im-just-a-side-character",
+      "file": "im-just-a-side-character.webp",
+      "path": "stickers-batch2-part1/stickers/im-just-a-side-character.webp",
+      "batch": "batch2-part1",
+      "format": "webp",
+      "description_zh": "我就知道我只是配角",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "im-just-a-wimp",
+      "file": "im-just-a-wimp.jpg",
+      "path": "stickers-batch2-part1/stickers/im-just-a-wimp.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫“我就是这种小窝囊”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "impatient-stop-talking",
+      "file": "impatient-stop-talking.jpg",
+      "path": "stickers-batch2-part1/stickers/impatient-stop-talking.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "猫猫不耐烦“可以了，打住，不想再听了”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit",
+        "pet"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit",
+        "pet"
+      ]
+    },
+    {
+      "id": "in-one-ear-out-the-other",
+      "file": "in-one-ear-out-the-other.jpg",
+      "path": "stickers-batch2-part1/stickers/in-one-ear-out-the-other.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "左耳进右耳出“哦哦哦对对对”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "innocent-call-the-police",
+      "file": "innocent-call-the-police.jpg",
+      "path": "stickers-batch2-part1/stickers/innocent-call-the-police.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "小猫一脸无辜，摊手手“那怎么办？要不你报警抓我吧”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "call"
+      ],
+      "tags": [
+        "cat",
+        "call"
+      ]
+    },
+    {
+      "id": "interview-why-not-play-games-with-me",
+      "file": "interview-why-not-play-games-with-me.jpg",
+      "path": "stickers-batch2-part1/stickers/interview-why-not-play-games-with-me.jpg",
+      "batch": "batch2-part1",
+      "format": "jpg",
+      "description_zh": "“采访一下，请问，你为什么不带我打游戏”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "is-that-human-speech",
+      "file": "is-that-human-speech.jpg",
+      "path": "stickers-batch2-part2/stickers/is-that-human-speech.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "惊，这说的是人话吗？",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "id": "just-a-little-lustful",
+      "file": "just-a-little-lustful.jpg",
+      "path": "stickers-batch2-part2/stickers/just-a-little-lustful.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫委屈“我一个女孩子，不抽烟不喝酒，我就好点色怎么了”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "flirtatious"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "sad",
+        "flirtatious"
+      ]
+    },
+    {
+      "id": "just-wait-youre-getting-hit",
+      "file": "just-wait-youre-getting-hit.jpg",
+      "path": "stickers-batch2-part2/stickers/just-wait-youre-getting-hit.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“我去你的，等着挨打吧”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "wait",
+        "hit"
+      ],
+      "tags": [
+        "angry",
+        "wait",
+        "hit"
+      ]
+    },
+    {
+      "id": "let-me-into-your-dream",
+      "file": "let-me-into-your-dream.jpg",
+      "path": "stickers-batch2-part2/stickers/let-me-into-your-dream.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "听说你睡不着，那让我去你梦里吧",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "let-me-meow-a-few-words",
+      "file": "let-me-meow-a-few-words.jpg",
+      "path": "stickers-batch2-part2/stickers/let-me-meow-a-few-words.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "下面我简单喵喵两句（就是简单说两句的意思）",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cute"
+      ]
+    },
+    {
+      "id": "lets-end-it-here",
+      "file": "lets-end-it-here.jpg",
+      "path": "stickers-batch2-part2/stickers/lets-end-it-here.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“辣就，到起为几吧”（谐音，那就到此为止吧）",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "little-devil-cat",
+      "file": "little-devil-cat.gif",
+      "path": "stickers-batch2-part2/stickers/little-devil-cat.gif",
+      "batch": "batch2-part2",
+      "format": "gif",
+      "description_zh": "小恶魔猫猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "loser-in-love-and-games",
+      "file": "loser-in-love-and-games.jpg",
+      "path": "stickers-batch2-part2/stickers/loser-in-love-and-games.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "恋爱回回输，王者回回输，吃个宵夜还要被骂小肥猪",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate",
+        "angry"
+      ]
+    },
+    {
+      "id": "love-slacking-off",
+      "file": "love-slacking-off.jpg",
+      "path": "stickers-batch2-part2/stickers/love-slacking-off.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“很喜欢摸鱼，有种站着就把饭要了的感觉”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "pet"
+      ],
+      "tags": [
+        "affectionate",
+        "pet"
+      ]
+    },
+    {
+      "id": "minus-points-no-i-love-you",
+      "file": "minus-points-no-i-love-you.jpg",
+      "path": "stickers-batch2-part2/stickers/minus-points-no-i-love-you.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“不乖扣五十，今天没说爱我扣上三十，呜呜”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "mischievous-cat",
+      "file": "mischievous-cat.jpg",
+      "path": "stickers-batch2-part2/stickers/mischievous-cat.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "坏心思的猫猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "playful"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "playful"
+      ]
+    },
+    {
+      "id": "mumbling",
+      "file": "mumbling.jpg",
+      "path": "stickers-batch2-part2/stickers/mumbling.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "小声bb表情包",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "must-i-cry",
+      "file": "must-i-cry.jpg",
+      "path": "stickers-batch2-part2/stickers/must-i-cry.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "一定要让我哭吗",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "my-coldness-left-you-speechless",
+      "file": "my-coldness-left-you-speechless.jpg",
+      "path": "stickers-batch2-part2/stickers/my-coldness-left-you-speechless.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "是我的冷漠让你无话可说？",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [],
+      "tags": [
+        "confused"
+      ]
+    },
+    {
+      "id": "need-a-calm-down-shot",
+      "file": "need-a-calm-down-shot.jpg",
+      "path": "stickers-batch2-part2/stickers/need-a-calm-down-shot.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "让你满脑子瑟瑟，打一针退sao针就好了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry",
+        "flirtatious"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "angry",
+        "flirtatious",
+        "hit"
+      ]
+    },
+    {
+      "id": "nervous-i-really-like-you",
+      "file": "nervous-i-really-like-you.jpg",
+      "path": "stickers-batch2-part2/stickers/nervous-i-really-like-you.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "紧张……不知所措……“我我我真的喜欢你”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "shy"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate",
+        "shy"
+      ]
+    },
+    {
+      "id": "no-need-to-be-so-harsh",
+      "file": "no-need-to-be-so-harsh.jpg",
+      "path": "stickers-batch2-part2/stickers/no-need-to-be-so-harsh.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫委屈“就这么一点事，有必要说的这么难听吗”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "sad"
+      ]
+    },
+    {
+      "id": "nobody-cares-about-me",
+      "file": "nobody-cares-about-me.jpg",
+      "path": "stickers-batch2-part2/stickers/nobody-cares-about-me.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "难道我是狗不理？狗都不理？",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "id": "not-interested-in-men",
+      "file": "not-interested-in-men.jpg",
+      "path": "stickers-batch2-part2/stickers/not-interested-in-men.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "不想了解男人",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "id": "not-replying-what-are-you-doing",
+      "file": "not-replying-what-are-you-doing.png",
+      "path": "stickers-batch2-part2/stickers/not-replying-what-are-you-doing.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "“又不回消息，你在背着我做什么？偷情？绿我？搞事？带妹？气死我了，你这个逆子”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "wait",
+        "message"
+      ],
+      "tags": [
+        "wait",
+        "message"
+      ]
+    },
+    {
+      "id": "not-sad-just-unhappy",
+      "file": "not-sad-just-unhappy.jpg",
+      "path": "stickers-batch2-part2/stickers/not-sad-just-unhappy.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫哭泣“我没有不开心，我只是不快乐，真的”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "happy",
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "cat",
+        "happy",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "not-worthy-of-instant-reply",
+      "file": "not-worthy-of-instant-reply.jpg",
+      "path": "stickers-batch2-part2/stickers/not-worthy-of-instant-reply.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "委屈，快哭了“我是不是不配你的秒回”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry",
+        "wait",
+        "message"
+      ],
+      "tags": [
+        "sad",
+        "cry",
+        "wait",
+        "message"
+      ]
+    },
+    {
+      "id": "one-second-no-reply-cold-war",
+      "file": "one-second-no-reply-cold-war.jpg",
+      "path": "stickers-batch2-part2/stickers/one-second-no-reply-cold-war.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫委屈“你已经一秒钟没有回我了，没意思，不爱就算了，真的，没必要冷暴力”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad"
+      ],
+      "actions": [
+        "wait",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "affectionate",
+        "sad",
+        "wait",
+        "message"
+      ]
+    },
+    {
+      "id": "others-get-kisses-me-too",
+      "file": "others-get-kisses-me-too.jpg",
+      "path": "stickers-batch2-part2/stickers/others-get-kisses-me-too.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "别的宝贝都有kiss，kiss，我不管，我也要",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "affectionate",
+        "kiss"
+      ]
+    },
+    {
+      "id": "our-relationship-not-that-good",
+      "file": "our-relationship-not-that-good.jpg",
+      "path": "stickers-batch2-part2/stickers/our-relationship-not-that-good.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "认真：原来我们的关系，并没有想象的那么好",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "panic-not-me",
+      "file": "panic-not-me.webp",
+      "path": "stickers-batch2-part2/stickers/panic-not-me.webp",
+      "batch": "batch2-part2",
+      "format": "webp",
+      "description_zh": "小猫慌张“我不是，我没有，别瞎说”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "perfunctory-phone-dying",
+      "file": "perfunctory-phone-dying.gif",
+      "path": "stickers-batch2-part2/stickers/perfunctory-phone-dying.gif",
+      "batch": "batch2-part2",
+      "format": "gif",
+      "description_zh": "敷衍“嗯嗯嗯好好好，就这样吧我手机没油了”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "call",
+        "message"
+      ],
+      "tags": [
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "phone-this-guy-is-broken",
+      "file": "phone-this-guy-is-broken.jpg",
+      "path": "stickers-batch2-part2/stickers/phone-this-guy-is-broken.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "小猫拿着手机，看着屏幕前“这家伙，脑子坏掉了吧？”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "call",
+        "watch",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "call",
+        "watch",
+        "message"
+      ]
+    },
+    {
+      "id": "pillow-ready-room-in-your-bed",
+      "file": "pillow-ready-room-in-your-bed.jpg",
+      "path": "stickers-batch2-part2/stickers/pillow-ready-room-in-your-bed.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "可爱的冒出来：我准备好我的小枕头了，你的床空出位置了吗？",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute",
+        "tired",
+        "flirtatious"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "affectionate",
+        "cute",
+        "tired",
+        "flirtatious",
+        "sleep"
+      ]
+    },
+    {
+      "id": "play-with-silly-you",
+      "file": "play-with-silly-you.jpg",
+      "path": "stickers-batch2-part2/stickers/play-with-silly-you.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "我妈从小就告诉我，不能和不三不四的人玩，所以我一直和很二的你玩",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "id": "playboy-baby-this-baby-that",
+      "file": "playboy-baby-this-baby-that.jpg",
+      "path": "stickers-batch2-part2/stickers/playboy-baby-this-baby-that.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "渣男，宝贝长，宝贝短，宝贝生气又不管",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "angry"
+      ]
+    },
+    {
+      "id": "playing-dumb",
+      "file": "playing-dumb.jpg",
+      "path": "stickers-batch2-part2/stickers/playing-dumb.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "装傻",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "pointing-judging",
+      "file": "pointing-judging.png",
+      "path": "stickers-batch2-part2/stickers/pointing-judging.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "指指点点",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "puppy-calling-laopo",
+      "file": "puppy-calling-laopo.png",
+      "path": "stickers-batch2-part2/stickers/puppy-calling-laopo.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "小狗叫老婆的表情包",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "call"
+      ],
+      "tags": [
+        "dog",
+        "call"
+      ]
+    },
+    {
+      "id": "puppy-close-to-screen-hopeful",
+      "file": "puppy-close-to-screen-hopeful.png",
+      "path": "stickers-batch2-part2/stickers/puppy-close-to-screen-hopeful.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "小狗凑近屏幕，期待",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "id": "puppy-paw-high-five",
+      "file": "puppy-paw-high-five.png",
+      "path": "stickers-batch2-part2/stickers/puppy-paw-high-five.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "小狗和主人的手掌贴贴",
+      "roles": [
+        "dog",
+        "person"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "hug"
+      ],
+      "tags": [
+        "dog",
+        "person",
+        "affectionate",
+        "hug"
+      ]
+    },
+    {
+      "id": "puppy-run-faster-legs",
+      "file": "puppy-run-faster-legs.png",
+      "path": "stickers-batch2-part2/stickers/puppy-run-faster-legs.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "小狗奔跑“死腿，给我跑快点啊！”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "run"
+      ],
+      "tags": [
+        "dog",
+        "run"
+      ]
+    },
+    {
+      "id": "puppy-waiting-for-reply",
+      "file": "puppy-waiting-for-reply.png",
+      "path": "stickers-batch2-part2/stickers/puppy-waiting-for-reply.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "小狗看着手机等待回复",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "wait",
+        "watch",
+        "message"
+      ],
+      "tags": [
+        "dog",
+        "wait",
+        "watch",
+        "message"
+      ]
+    },
+    {
+      "id": "reply-faster-or-else",
+      "file": "reply-faster-or-else.jpg",
+      "path": "stickers-batch2-part2/stickers/reply-faster-or-else.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "小猫拿着玩具枪抵在另一只小猫头上“虽然大哥很喜欢和你聊天，但你回大哥的速度，让大哥很不满意”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "wait",
+        "hit",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "affectionate",
+        "wait",
+        "hit",
+        "message"
+      ]
+    },
+    {
+      "id": "report-i-have-something-to-say",
+      "file": "report-i-have-something-to-say.jpg",
+      "path": "stickers-batch2-part2/stickers/report-i-have-something-to-say.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "报告！我有话要说",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "report-missing-you-today",
+      "file": "report-missing-you-today.jpg",
+      "path": "stickers-batch2-part2/stickers/report-missing-you-today.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫积极的说“报告，今天也超级想你的！”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "request-join-your-bed",
+      "file": "request-join-your-bed.webp",
+      "path": "stickers-batch2-part2/stickers/request-join-your-bed.webp",
+      "batch": "batch2-part2",
+      "format": "webp",
+      "description_zh": "申请加入你的被窝，A同意，B可以",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "tired",
+        "flirtatious"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "tired",
+        "flirtatious",
+        "sleep"
+      ]
+    },
+    {
+      "id": "request-kiss-two-yes-options",
+      "file": "request-kiss-two-yes-options.jpg",
+      "path": "stickers-batch2-part2/stickers/request-kiss-two-yes-options.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "申请出来亲嘴，只有两个亲的选项",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "affectionate",
+        "kiss"
+      ]
+    },
+    {
+      "id": "runny-nose-cold-weather",
+      "file": "runny-nose-cold-weather.jpg",
+      "path": "stickers-batch2-part2/stickers/runny-nose-cold-weather.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫流鼻涕“鬼天气，太冷了”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "run"
+      ],
+      "tags": [
+        "cat",
+        "run"
+      ]
+    },
+    {
+      "id": "sarcastic-whatever-you-say",
+      "file": "sarcastic-whatever-you-say.jpg",
+      "path": "stickers-batch2-part2/stickers/sarcastic-whatever-you-say.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "阴阳怪气“你说是就是吧，我没办法治好每个傻逼”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "angry"
+      ]
+    },
+    {
+      "id": "sarcastic-youre-so-amazing",
+      "file": "sarcastic-youre-so-amazing.jpg",
+      "path": "stickers-batch2-part2/stickers/sarcastic-youre-so-amazing.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "准备生气，阴阳怪气“哎哟，您可厉害了呢”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "angry"
+      ]
+    },
+    {
+      "id": "sarcastic-youre-so-right",
+      "file": "sarcastic-youre-so-right.jpg",
+      "path": "stickers-batch2-part2/stickers/sarcastic-youre-so-right.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "阴阳怪气“您继续说，我听着，您说得太对了”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "say-love-me-voice-or-else",
+      "file": "say-love-me-voice-or-else.jpg",
+      "path": "stickers-batch2-part2/stickers/say-love-me-voice-or-else.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "拿着枪抵在头上“快说爱我，要语音的，不然我自鲨，你将失去世界上最可爱的人”",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute"
+      ],
+      "actions": [
+        "hit",
+        "call"
+      ],
+      "tags": [
+        "person",
+        "affectionate",
+        "cute",
+        "hit",
+        "call"
+      ]
+    },
+    {
+      "id": "say-you-love-me-forgiven",
+      "file": "say-you-love-me-forgiven.jpg",
+      "path": "stickers-batch2-part2/stickers/say-you-love-me-forgiven.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫委屈“你怎么不说话，你说爱我，我就都原谅你”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate",
+        "sad"
+      ]
+    },
+    {
+      "id": "shy-blushing",
+      "file": "shy-blushing.jpg",
+      "path": "stickers-batch2-part2/stickers/shy-blushing.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "怪不好意思的（羞羞，脸红红）",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "shy"
+      ],
+      "actions": [],
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "id": "sigh-baby-or-backup",
+      "file": "sigh-baby-or-backup.jpg",
+      "path": "stickers-batch2-part2/stickers/sigh-baby-or-backup.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "叹气…也不知道我这个宝贝，是宝还是备",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "slap-your-head-off",
+      "file": "slap-your-head-off.jpg",
+      "path": "stickers-batch2-part2/stickers/slap-your-head-off.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "信不信我狗头都给你扇飞",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "dog",
+        "hit"
+      ]
+    },
+    {
+      "id": "sneak-away",
+      "file": "sneak-away.png",
+      "path": "stickers-batch2-part2/stickers/sneak-away.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "偷偷逃走",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "run"
+      ],
+      "tags": [
+        "run"
+      ]
+    },
+    {
+      "id": "so-ordinary-yet-so-confident",
+      "file": "so-ordinary-yet-so-confident.jpg",
+      "path": "stickers-batch2-part2/stickers/so-ordinary-yet-so-confident.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“谁给你的脸啊，你明明那么普通，却又那么自信”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "sob-hug-me-faking",
+      "file": "sob-hug-me-faking.jpg",
+      "path": "stickers-batch2-part2/stickers/sob-hug-me-faking.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "555，抱抱，我装的",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "hug"
+      ],
+      "tags": [
+        "affectionate",
+        "hug"
+      ]
+    },
+    {
+      "id": "sob-im-crying",
+      "file": "sob-im-crying.jpg",
+      "path": "stickers-batch2-part2/stickers/sob-im-crying.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "555，我哭了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "someone-has-to-be-useless",
+      "file": "someone-has-to-be-useless.jpg",
+      "path": "stickers-batch2-part2/stickers/someone-has-to-be-useless.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "总有人要当废物，那为什么不能是我呢？（申请）",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "id": "sour-lemon-nothing-special",
+      "file": "sour-lemon-nothing-special.jpg",
+      "path": "stickers-batch2-part2/stickers/sour-lemon-nothing-special.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "柠檬精：不过如此",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "speechless-new-symptom",
+      "file": "speechless-new-symptom.jpg",
+      "path": "stickers-batch2-part2/stickers/speechless-new-symptom.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "小猫无语“你之前有这个症状的，还是现在有的”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "confused"
+      ]
+    },
+    {
+      "id": "staring-you-should-miss-me",
+      "file": "staring-you-should-miss-me.jpg",
+      "path": "stickers-batch2-part2/stickers/staring-you-should-miss-me.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "盯，估摸这个点，你应该想我了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "suspicious"
+      ],
+      "actions": [
+        "pet",
+        "watch",
+        "marry"
+      ],
+      "tags": [
+        "suspicious",
+        "pet",
+        "watch",
+        "marry"
+      ]
+    },
+    {
+      "id": "stay-away-from-princess",
+      "file": "stay-away-from-princess.jpg",
+      "path": "stickers-batch2-part2/stickers/stay-away-from-princess.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫生气“你小心点，离本公主远点”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "angry"
+      ]
+    },
+    {
+      "id": "sweating-bullets",
+      "file": "sweating-bullets.jpg",
+      "path": "stickers-batch2-part2/stickers/sweating-bullets.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "汗流浃背",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "take-it-back",
+      "file": "take-it-back.jpg",
+      "path": "stickers-batch2-part2/stickers/take-it-back.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "你这句话什么意思？我不喜欢，撤回！",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "teary-eyes",
+      "file": "teary-eyes.jpg",
+      "path": "stickers-batch2-part2/stickers/teary-eyes.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "眼泪在眼眶里打转的猫猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "cry",
+        "hit"
+      ]
+    },
+    {
+      "id": "texting-goodnight",
+      "file": "texting-goodnight.gif",
+      "path": "stickers-batch2-part2/stickers/texting-goodnight.gif",
+      "batch": "batch2-part2",
+      "format": "gif",
+      "description_zh": "发消息说晚安",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "sleep",
+        "message"
+      ],
+      "tags": [
+        "sleep",
+        "message"
+      ]
+    },
+    {
+      "id": "thanks-for-one-reply-a-day",
+      "file": "thanks-for-one-reply-a-day.jpg",
+      "path": "stickers-batch2-part2/stickers/thanks-for-one-reply-a-day.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "谢谢你，半天只回我一条消息",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "wait",
+        "message"
+      ],
+      "tags": [
+        "wait",
+        "message"
+      ]
+    },
+    {
+      "id": "thats-it",
+      "file": "thats-it.jpg",
+      "path": "stickers-batch2-part2/stickers/thats-it.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "就这？就这？就这？",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "thats-not-polite",
+      "file": "thats-not-polite.jpg",
+      "path": "stickers-batch2-part2/stickers/thats-not-polite.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "再说，就不里猫了（谐音，再说就不礼貌了）",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "thinking-but-brain-empty",
+      "file": "thinking-but-brain-empty.jpg",
+      "path": "stickers-batch2-part2/stickers/thinking-but-brain-empty.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "看起来像是在思考，实际上大脑一片空白",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [
+        "watch",
+        "think"
+      ],
+      "tags": [
+        "confused",
+        "watch",
+        "think"
+      ]
+    },
+    {
+      "id": "thinking-how-to-deal-with-you",
+      "file": "thinking-how-to-deal-with-you.jpg",
+      "path": "stickers-batch2-part2/stickers/thinking-how-to-deal-with-you.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫大脑飞速运转，想想怎么解决你",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [
+        "think"
+      ],
+      "tags": [
+        "cat",
+        "confused",
+        "think"
+      ]
+    },
+    {
+      "id": "timid-scolded",
+      "file": "timid-scolded.jpg",
+      "path": "stickers-batch2-part2/stickers/timid-scolded.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "怂，委屈巴巴，被凶了，不开心",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "happy",
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "happy",
+        "sad"
+      ]
+    },
+    {
+      "id": "tiny-tantrum",
+      "file": "tiny-tantrum.jpg",
+      "path": "stickers-batch2-part2/stickers/tiny-tantrum.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "小发雷霆的咪",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute",
+        "sulky"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute",
+        "sulky"
+      ]
+    },
+    {
+      "id": "too-scared-to-text-you",
+      "file": "too-scared-to-text-you.jpg",
+      "path": "stickers-batch2-part2/stickers/too-scared-to-text-you.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "我哪敢给你发消息啊，发了又不看，看了又不回，回的还没一句我爱听的",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "watch",
+        "message"
+      ],
+      "tags": [
+        "affectionate",
+        "watch",
+        "message"
+      ]
+    },
+    {
+      "id": "tried-and-failed",
+      "file": "tried-and-failed.jpg",
+      "path": "stickers-batch2-part2/stickers/tried-and-failed.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "尝试后，我就是不行",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "trouble-just-sleep",
+      "file": "trouble-just-sleep.jpg",
+      "path": "stickers-batch2-part2/stickers/trouble-just-sleep.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“遇到困难，睡大觉”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "trust-me-long-nose-bear",
+      "file": "trust-me-long-nose-bear.jpg",
+      "path": "stickers-batch2-part2/stickers/trust-me-long-nose-bear.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "相信我（因为撒谎长了长鼻子的小熊）",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "bear"
+      ]
+    },
+    {
+      "id": "unfaithful-man-pig-cage",
+      "file": "unfaithful-man-pig-cage.jpg",
+      "path": "stickers-batch2-part2/stickers/unfaithful-man-pig-cage.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "不守夫德的男人，是会被浸猪笼的",
+      "roles": [
+        "person"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "id": "waiting-for-pets",
+      "file": "waiting-for-pets.jpg",
+      "path": "stickers-batch2-part2/stickers/waiting-for-pets.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "等待被摸的咪",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [
+        "wait",
+        "pet"
+      ],
+      "tags": [
+        "cat",
+        "cute",
+        "wait",
+        "pet"
+      ]
+    },
+    {
+      "id": "want-gege-hug",
+      "file": "want-gege-hug.png",
+      "path": "stickers-batch2-part2/stickers/want-gege-hug.png",
+      "batch": "batch2-part2",
+      "format": "png",
+      "description_zh": "“好想哥哥陪，好想哥哥抱，想在哥哥怀里睡觉”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "tired"
+      ],
+      "actions": [
+        "hug",
+        "sleep"
+      ],
+      "tags": [
+        "affectionate",
+        "tired",
+        "hug",
+        "sleep"
+      ]
+    },
+    {
+      "id": "want-you-to-stay-with-me",
+      "file": "want-you-to-stay-with-me.jpg",
+      "path": "stickers-batch2-part2/stickers/want-you-to-stay-with-me.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“呜呜呜，我想让你多陪陪我嘛”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "watching-secretly",
+      "file": "watching-secretly.jpg",
+      "path": "stickers-batch2-part2/stickers/watching-secretly.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "暗中观察“不要以为我不在，我随时都在”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "suspicious"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "suspicious",
+        "watch"
+      ]
+    },
+    {
+      "id": "we-are-not-close",
+      "file": "we-are-not-close.jpg",
+      "path": "stickers-batch2-part2/stickers/we-are-not-close.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "猫猫垮着个脸“我们不熟，请您自重”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "who-can-take-this",
+      "file": "who-can-take-this.gif",
+      "path": "stickers-batch2-part2/stickers/who-can-take-this.gif",
+      "batch": "batch2-part2",
+      "format": "gif",
+      "description_zh": "这种委屈谁受得了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "sad"
+      ]
+    },
+    {
+      "id": "why-ignore-me-signal-bad",
+      "file": "why-ignore-me-signal-bad.jpg",
+      "path": "stickers-batch2-part2/stickers/why-ignore-me-signal-bad.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "宝，怎么不理我了？又被那女的压胳膊了吗？还是坟头信号又差了？",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "woke-up-no-message",
+      "file": "woke-up-no-message.jpg",
+      "path": "stickers-batch2-part2/stickers/woke-up-no-message.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "真好，醒了也不给我发消息，醒得好，下次别醒了",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "message"
+      ],
+      "tags": [
+        "message"
+      ]
+    },
+    {
+      "id": "woke-up-praise-me",
+      "file": "woke-up-praise-me.jpg",
+      "path": "stickers-batch2-part2/stickers/woke-up-praise-me.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "小猫疑惑“我醒了，怎么没人夸我是爱睡觉的宝宝？”",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "affectionate",
+        "tired"
+      ],
+      "actions": [
+        "sleep",
+        "praise"
+      ],
+      "tags": [
+        "cat",
+        "person",
+        "affectionate",
+        "tired",
+        "sleep",
+        "praise"
+      ]
+    },
+    {
+      "id": "worried-cat",
+      "file": "worried-cat.gif",
+      "path": "stickers-batch2-part2/stickers/worried-cat.gif",
+      "batch": "batch2-part2",
+      "format": "gif",
+      "description_zh": "猫猫担心表情包",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "wronged-how-dare-i",
+      "file": "wronged-how-dare-i.jpg",
+      "path": "stickers-batch2-part2/stickers/wronged-how-dare-i.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "委屈屈，我哪敢嘛",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "sad"
+      ]
+    },
+    {
+      "id": "you-dog-me-gentleman",
+      "file": "you-dog-me-gentleman.jpg",
+      "path": "stickers-batch2-part2/stickers/you-dog-me-gentleman.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "指上一条消息的发送人为“色狗”，指自己为“正人君子”",
+      "roles": [
+        "dog",
+        "person"
+      ],
+      "emotions": [],
+      "actions": [
+        "message"
+      ],
+      "tags": [
+        "dog",
+        "person",
+        "message"
+      ]
+    },
+    {
+      "id": "you-dont-call-me-i-dont-call-you",
+      "file": "you-dont-call-me-i-dont-call-you.jpg",
+      "path": "stickers-batch2-part2/stickers/you-dont-call-me-i-dont-call-you.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "委屈“你不找我，我也不找你，哼，看谁拽”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad",
+        "sulky"
+      ],
+      "actions": [
+        "call",
+        "watch"
+      ],
+      "tags": [
+        "sad",
+        "sulky",
+        "call",
+        "watch"
+      ]
+    },
+    {
+      "id": "you-fierce-work-my-farm",
+      "file": "you-fierce-work-my-farm.jpg",
+      "path": "stickers-batch2-part2/stickers/you-fierce-work-my-farm.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "我看你挺凶的，我的QQ农场还缺条狗，你明天过来上班吧",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "dog",
+        "watch"
+      ]
+    },
+    {
+      "id": "your-daddy-is-here",
+      "file": "your-daddy-is-here.jpg",
+      "path": "stickers-batch2-part2/stickers/your-daddy-is-here.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "你爹来喽",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "youre-number-one-game-started",
+      "file": "youre-number-one-game-started.jpg",
+      "path": "stickers-batch2-part2/stickers/youre-number-one-game-started.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "“你是我的大宝贝，在我心中你永远是第一，我爱你的，不说了，游戏开了”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "youre-such-a-dog",
+      "file": "youre-such-a-dog.jpg",
+      "path": "stickers-batch2-part2/stickers/youre-such-a-dog.jpg",
+      "batch": "batch2-part2",
+      "format": "jpg",
+      "description_zh": "你是真的狗啊",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "id": "beagle-say-im-the-best",
+      "file": "beagle-say-im-the-best.jpg",
+      "path": "stickers-batch3/stickers/beagle-say-im-the-best.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "趴在地上大叫的比格犬，配文“你快说我什么都特别好！你快说呀！”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "id": "bear-hugging-doll-together-forever",
+      "file": "bear-hugging-doll-together-forever.jpg",
+      "path": "stickers-batch3/stickers/bear-hugging-doll-together-forever.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "抱着玩偶哭哭的卡通小熊，配文“好想一直在一起”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad"
+      ],
+      "actions": [
+        "hug",
+        "cry"
+      ],
+      "tags": [
+        "bear",
+        "affectionate",
+        "sad",
+        "hug",
+        "cry"
+      ]
+    },
+    {
+      "id": "bear-hugging-self-lonely",
+      "file": "bear-hugging-self-lonely.jpg",
+      "path": "stickers-batch3/stickers/bear-hugging-self-lonely.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "抱着自己的卡通小熊，配文“讨厌一个人”",
+      "roles": [
+        "bear",
+        "person"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad"
+      ],
+      "actions": [
+        "hug"
+      ],
+      "tags": [
+        "bear",
+        "person",
+        "affectionate",
+        "sad",
+        "hug"
+      ]
+    },
+    {
+      "id": "bear-no-energy-without-you",
+      "file": "bear-no-energy-without-you.jpg",
+      "path": "stickers-batch3/stickers/bear-no-energy-without-you.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "坐在地上的卡通小熊，配文“没见到你就没精神”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "bear"
+      ]
+    },
+    {
+      "id": "bear-not-crying-already-crying",
+      "file": "bear-not-crying-already-crying.jpg",
+      "path": "stickers-batch3/stickers/bear-not-crying-already-crying.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只哭哭卡通小熊，配文“我不会哭的（已经哭了）”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "bear",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "bear-only-i-miss-you",
+      "file": "bear-only-i-miss-you.jpg",
+      "path": "stickers-batch3/stickers/bear-only-i-miss-you.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "生气的卡通小熊，配文“所以只有我在偷偷想你呗！”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "affectionate",
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "bear",
+        "affectionate",
+        "angry"
+      ]
+    },
+    {
+      "id": "bear-paws-up-like-you-so-much",
+      "file": "bear-paws-up-like-you-so-much.jpg",
+      "path": "stickers-batch3/stickers/bear-paws-up-like-you-so-much.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "举起两只爪子的卡通小熊，配文“觉得好喜欢你”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "bear",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "bear-rolling-crying-hate-it",
+      "file": "bear-rolling-crying-hate-it.jpg",
+      "path": "stickers-batch3/stickers/bear-rolling-crying-hate-it.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "哭着在地上打滚的卡通小熊，配文“讨厌讨厌讨厌讨厌”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit"
+      ],
+      "tags": [
+        "bear",
+        "sad",
+        "angry",
+        "cry",
+        "hit"
+      ]
+    },
+    {
+      "id": "bear-starry-like-you-long-time",
+      "file": "bear-starry-like-you-long-time.jpg",
+      "path": "stickers-batch3/stickers/bear-starry-like-you-long-time.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "星星眼卡通小熊，配文“你太可爱了！所以我决定要喜欢你很久很久”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "bear",
+        "affectionate",
+        "cute"
+      ]
+    },
+    {
+      "id": "bear-want-to-hear-your-voice",
+      "file": "bear-want-to-hear-your-voice.jpg",
+      "path": "stickers-batch3/stickers/bear-want-to-hear-your-voice.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "立起耳朵的卡通小熊，配文“想听你的声音”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [],
+      "actions": [
+        "call"
+      ],
+      "tags": [
+        "bear",
+        "call"
+      ]
+    },
+    {
+      "id": "bear-wants-head-pats",
+      "file": "bear-wants-head-pats.jpg",
+      "path": "stickers-batch3/stickers/bear-wants-head-pats.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "把脑袋凑过来的卡通小熊，配文“想被摸头的人”",
+      "roles": [
+        "bear",
+        "person"
+      ],
+      "emotions": [],
+      "actions": [
+        "pet"
+      ],
+      "tags": [
+        "bear",
+        "person",
+        "pet"
+      ]
+    },
+    {
+      "id": "bear-why-yell-at-me",
+      "file": "bear-why-yell-at-me.jpg",
+      "path": "stickers-batch3/stickers/bear-why-yell-at-me.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "哭哭卡通小熊，配文“我有点喜欢你才找你玩，你讲话干嘛凶我”",
+      "roles": [
+        "bear"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "bear",
+        "affectionate",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "bunny-ring-marry-me",
+      "file": "bunny-ring-marry-me.jpg",
+      "path": "stickers-batch3/stickers/bunny-ring-marry-me.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "举着钻戒的粉红兔，配文“嫁给我吧，不会让你好过的”",
+      "roles": [
+        "bunny"
+      ],
+      "emotions": [],
+      "actions": [
+        "marry"
+      ],
+      "tags": [
+        "bunny",
+        "marry"
+      ]
+    },
+    {
+      "id": "cat-am-i-your-side-chick",
+      "file": "cat-am-i-your-side-chick.jpg",
+      "path": "stickers-batch3/stickers/cat-am-i-your-side-chick.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "猫咪表情包，配文“我是你的小三吗？怎么聊几句你就不说话了，你老婆来逮你了？”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute"
+      ]
+    },
+    {
+      "id": "cat-angry-why-no-message-today",
+      "file": "cat-angry-why-no-message-today.jpg",
+      "path": "stickers-batch3/stickers/cat-angry-why-no-message-today.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "生气的小猫，配文“为什么一天都不找我”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "message"
+      ]
+    },
+    {
+      "id": "cat-close-report-even-breathing",
+      "file": "cat-close-report-even-breathing.jpg",
+      "path": "stickers-batch3/stickers/cat-close-report-even-breathing.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只凑近屏幕的小猫，配文“在干嘛，呼吸也要跟我说一声啊”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-dont-understand-want-kiss",
+      "file": "cat-dont-understand-want-kiss.jpg",
+      "path": "stickers-batch3/stickers/cat-dont-understand-want-kiss.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "猫咪表情包，配文“听不懂，想亲嘴”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "cat",
+        "affectionate",
+        "cute",
+        "kiss"
+      ]
+    },
+    {
+      "id": "cat-hmph-you-yelled-at-me",
+      "file": "cat-hmph-you-yelled-at-me.jpg",
+      "path": "stickers-batch3/stickers/cat-hmph-you-yelled-at-me.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "猫咪表情包，配文“哼，你凶我”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute",
+        "sulky"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute",
+        "sulky"
+      ]
+    },
+    {
+      "id": "cat-just-woke-easy-to-win",
+      "file": "cat-just-woke-easy-to-win.jpg",
+      "path": "stickers-batch3/stickers/cat-just-woke-easy-to-win.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "猫咪表情包，配文“刚醒，意识模糊，很容易被拿下”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute"
+      ]
+    },
+    {
+      "id": "cat-lost-in-thought",
+      "file": "cat-lost-in-thought.jpg",
+      "path": "stickers-batch3/stickers/cat-lost-in-thought.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "思考中的小猫，配文“陷入沉思”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [
+        "think"
+      ],
+      "tags": [
+        "cat",
+        "confused",
+        "think"
+      ]
+    },
+    {
+      "id": "cat-no-liking-other-cats",
+      "file": "cat-no-liking-other-cats.jpg",
+      "path": "stickers-batch3/stickers/cat-no-liking-other-cats.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "猫咪表情包，配文“泥不许喜欢其他小猫”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate",
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate",
+        "cute"
+      ]
+    },
+    {
+      "id": "cat-tilt-why-online-not-chatting",
+      "file": "cat-tilt-why-online-not-chatting.jpg",
+      "path": "stickers-batch3/stickers/cat-tilt-why-online-not-chatting.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只歪头小猫，配文“不跟我聊天你上什么网”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "cat-why-are-you-like-this",
+      "file": "cat-why-are-you-like-this.jpg",
+      "path": "stickers-batch3/stickers/cat-why-are-you-like-this.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "猫咪表情包，配文“你咋这样”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute"
+      ]
+    },
+    {
+      "id": "kitten-black-coaxing-white",
+      "file": "kitten-black-coaxing-white.png",
+      "path": "stickers-batch3/stickers/kitten-black-coaxing-white.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "心虚的小黑猫正小心翼翼哄着生气的小白猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-black-ok-sign",
+      "file": "kitten-black-ok-sign.png",
+      "path": "stickers-batch3/stickers/kitten-black-ok-sign.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "卡通小黑猫举着写有“OK”的牌子",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "kitten-black-pats-white",
+      "file": "kitten-black-pats-white.png",
+      "path": "stickers-batch3/stickers/kitten-black-pats-white.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "卡通小黑猫安慰哭泣的小白猫，说“摸摸”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit",
+        "pet"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "cry",
+        "hit",
+        "pet"
+      ]
+    },
+    {
+      "id": "kitten-white-bites-black",
+      "file": "kitten-white-bites-black.png",
+      "path": "stickers-batch3/stickers/kitten-white-bites-black.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "卡通小白猫咬着小黑猫，配文“咬”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "bite",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "bite",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-fist-up",
+      "file": "kitten-white-fist-up.png",
+      "path": "stickers-batch3/stickers/kitten-white-fist-up.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "生气的卡通小白猫举起拳头，看起来要打人",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit",
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "person",
+        "angry",
+        "hit",
+        "watch"
+      ]
+    },
+    {
+      "id": "kitten-white-happy-swaying",
+      "file": "kitten-white-happy-swaying.png",
+      "path": "stickers-batch3/stickers/kitten-white-happy-swaying.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "眯眼晃头、周围飘着音符的卡通小白猫，看起来正在开心地摇摆",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "happy",
+        "angry"
+      ],
+      "actions": [
+        "hit",
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "happy",
+        "angry",
+        "hit",
+        "watch"
+      ]
+    },
+    {
+      "id": "kitten-white-hopeless",
+      "file": "kitten-white-hopeless.png",
+      "path": "stickers-batch3/stickers/kitten-white-hopeless.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "小白猫一脸生无可恋，透着浓浓的绝望感",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-no-sign",
+      "file": "kitten-white-no-sign.png",
+      "path": "stickers-batch3/stickers/kitten-white-no-sign.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "卡通小白猫举着写有“NO”的牌子",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-petrified-cracked",
+      "file": "kitten-white-petrified-cracked.png",
+      "path": "stickers-batch3/stickers/kitten-white-petrified-cracked.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "看起来像石化了、额头裂开的卡通小白猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit",
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit",
+        "watch"
+      ]
+    },
+    {
+      "id": "kitten-white-phone-received",
+      "file": "kitten-white-phone-received.png",
+      "path": "stickers-batch3/stickers/kitten-white-phone-received.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "小白猫拿着手机，配文“收到”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit",
+        "call",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit",
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "kitten-white-punches-black",
+      "file": "kitten-white-punches-black.png",
+      "path": "stickers-batch3/stickers/kitten-white-punches-black.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "带怒气的卡通小白猫锤哭了小黑猫，配文“咚！”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "cry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-river-of-tears",
+      "file": "kitten-white-river-of-tears.png",
+      "path": "stickers-batch3/stickers/kitten-white-river-of-tears.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "小白猫哭得眼泪流成了河，配文“咪。",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute",
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "cute",
+        "sad",
+        "angry",
+        "cry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-sleeping-goodnight",
+      "file": "kitten-white-sleeping-goodnight.png",
+      "path": "stickers-batch3/stickers/kitten-white-sleeping-goodnight.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "盖着波点被子的小白猫在睡觉，配文“晚安”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry",
+        "tired"
+      ],
+      "actions": [
+        "sleep",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "tired",
+        "sleep",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-sorry-behind-wall",
+      "file": "kitten-white-sorry-behind-wall.png",
+      "path": "stickers-batch3/stickers/kitten-white-sorry-behind-wall.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "躲在墙后哭着道歉的卡通小白猫，配文“对不起”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit",
+        "apologize"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "cry",
+        "hit",
+        "apologize"
+      ]
+    },
+    {
+      "id": "kitten-white-starry-eyes",
+      "file": "kitten-white-starry-eyes.png",
+      "path": "stickers-batch3/stickers/kitten-white-starry-eyes.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "一只星星眼的卡通小白猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-white-teary-wronged",
+      "file": "kitten-white-teary-wronged.png",
+      "path": "stickers-batch3/stickers/kitten-white-teary-wronged.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "泪眼汪汪、满脸委屈的卡通小白猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "cry",
+        "hit"
+      ]
+    },
+    {
+      "id": "kitten-x-eyes-halo-ascended",
+      "file": "kitten-x-eyes-halo-ascended.png",
+      "path": "stickers-batch3/stickers/kitten-x-eyes-halo-ascended.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "双眼画成叉号、头顶光环，仿佛已经“升天”的卡通猫咪",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute"
+      ]
+    },
+    {
+      "id": "kittens-black-white-cuddle",
+      "file": "kittens-black-white-cuddle.png",
+      "path": "stickers-batch3/stickers/kittens-black-white-cuddle.png",
+      "batch": "batch3",
+      "format": "png",
+      "description_zh": "两只黑白卡通小猫紧挨在一起，配文“贴贴”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate",
+        "angry"
+      ],
+      "actions": [
+        "hug",
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "affectionate",
+        "angry",
+        "hug",
+        "hit"
+      ]
+    },
+    {
+      "id": "penguin-flowers-love-you-forever",
+      "file": "penguin-flowers-love-you-forever.jpg",
+      "path": "stickers-batch3/stickers/penguin-flowers-love-you-forever.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只举着花的企鹅，配文“受你一辈子”",
+      "roles": [
+        "penguin"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "penguin",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "penguin-wizard-hunk-into-bed",
+      "file": "penguin-wizard-hunk-into-bed.jpg",
+      "path": "stickers-batch3/stickers/penguin-wizard-hunk-into-bed.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "魔法师企鹅，配文“薄肌大帅哥立马进被窝”",
+      "roles": [
+        "penguin"
+      ],
+      "emotions": [
+        "tired",
+        "flirtatious"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "penguin",
+        "tired",
+        "flirtatious",
+        "sleep"
+      ]
+    },
+    {
+      "id": "person-bowing-awkward-smile",
+      "file": "person-bowing-awkward-smile.jpg",
+      "path": "stickers-batch3/stickers/person-bowing-awkward-smile.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一个看起来准备鞠躬的人，配文“赔笑”",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "person",
+        "happy",
+        "watch"
+      ]
+    },
+    {
+      "id": "person-megaphone-want-hot-guys",
+      "file": "person-megaphone-want-hot-guys.jpg",
+      "path": "stickers-batch3/stickers/person-megaphone-want-hot-guys.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "举着喇叭的人，配文“收帅男人”",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "flirtatious"
+      ],
+      "actions": [
+        "call",
+        "message"
+      ],
+      "tags": [
+        "person",
+        "flirtatious",
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "person-show-me-abs",
+      "file": "person-show-me-abs.jpg",
+      "path": "stickers-batch3/stickers/person-show-me-abs.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "看手机的人，配文“看看腹肌”",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "flirtatious"
+      ],
+      "actions": [
+        "watch",
+        "message"
+      ],
+      "tags": [
+        "person",
+        "flirtatious",
+        "watch",
+        "message"
+      ]
+    },
+    {
+      "id": "puppy-arms-crossed-smug",
+      "file": "puppy-arms-crossed-smug.jpg",
+      "path": "stickers-batch3/stickers/puppy-arms-crossed-smug.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只双手抱胸，看起来很得意的小白狗，配文“很得瑟的人”",
+      "roles": [
+        "dog",
+        "person"
+      ],
+      "emotions": [
+        "affectionate",
+        "happy",
+        "flirtatious"
+      ],
+      "actions": [
+        "hug",
+        "watch"
+      ],
+      "tags": [
+        "dog",
+        "person",
+        "affectionate",
+        "happy",
+        "flirtatious",
+        "hug",
+        "watch"
+      ]
+    },
+    {
+      "id": "puppy-belly-rub-happy",
+      "file": "puppy-belly-rub-happy.jpg",
+      "path": "stickers-batch3/stickers/puppy-belly-rub-happy.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只在被摸肚子的很高兴的小白狗",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [
+        "pet"
+      ],
+      "tags": [
+        "dog",
+        "happy",
+        "pet"
+      ]
+    },
+    {
+      "id": "puppy-caught-stealing-bad-dog",
+      "file": "puppy-caught-stealing-bad-dog.jpg",
+      "path": "stickers-batch3/stickers/puppy-caught-stealing-bad-dog.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只偷吃被指责的小白狗，配文“坏狗！”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "id": "puppy-coming-to-make-up",
+      "file": "puppy-coming-to-make-up.jpg",
+      "path": "stickers-batch3/stickers/puppy-coming-to-make-up.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只正在跑来的小白狗，配文“我要和你好，我来了”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "run"
+      ],
+      "tags": [
+        "dog",
+        "run"
+      ]
+    },
+    {
+      "id": "puppy-crying-head-rubbed",
+      "file": "puppy-crying-head-rubbed.jpg",
+      "path": "stickers-batch3/stickers/puppy-crying-head-rubbed.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只正在被揉脑袋安慰的哭哭小白狗",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "sad",
+        "tired",
+        "flirtatious"
+      ],
+      "actions": [
+        "cry",
+        "sleep",
+        "pet"
+      ],
+      "tags": [
+        "dog",
+        "sad",
+        "tired",
+        "flirtatious",
+        "cry",
+        "sleep",
+        "pet"
+      ]
+    },
+    {
+      "id": "puppy-crying-phone-miss-you",
+      "file": "puppy-crying-phone-miss-you.jpg",
+      "path": "stickers-batch3/stickers/puppy-crying-phone-miss-you.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只哭着打电话的小白狗，配文“我好想你吖”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "affectionate",
+        "sad",
+        "angry"
+      ],
+      "actions": [
+        "cry",
+        "hit",
+        "call",
+        "message"
+      ],
+      "tags": [
+        "dog",
+        "affectionate",
+        "sad",
+        "angry",
+        "cry",
+        "hit",
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "puppy-crying-running-away",
+      "file": "puppy-crying-running-away.jpg",
+      "path": "stickers-batch3/stickers/puppy-crying-running-away.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只哭着离开的小狗 配文“就这样狗溜溜的逃离”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry",
+        "run"
+      ],
+      "tags": [
+        "dog",
+        "sad",
+        "cry",
+        "run"
+      ]
+    },
+    {
+      "id": "puppy-everyone-picks-on-me",
+      "file": "puppy-everyone-picks-on-me.jpg",
+      "path": "stickers-batch3/stickers/puppy-everyone-picks-on-me.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "被手指着眼泪汪汪的小白狗，配文“全世界都在针对萌萌的窝”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "dog",
+        "cry"
+      ]
+    },
+    {
+      "id": "puppy-evil-paws-up",
+      "file": "puppy-evil-paws-up.jpg",
+      "path": "stickers-batch3/stickers/puppy-evil-paws-up.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "伸出两只爪子，看起来准备做坏事的邪恶小白狗",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "dog",
+        "watch"
+      ]
+    },
+    {
+      "id": "puppy-go-public-official-dog",
+      "file": "puppy-go-public-official-dog.jpg",
+      "path": "stickers-batch3/stickers/puppy-go-public-official-dog.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "哭哭卡通小狗，配文“公开！公开！！！让别人知道我是正牌小狗”",
+      "roles": [
+        "dog",
+        "person"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "dog",
+        "person",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "puppy-handkerchief-just-wait",
+      "file": "puppy-handkerchief-just-wait.jpg",
+      "path": "stickers-batch3/stickers/puppy-handkerchief-just-wait.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只拿手帕擦眼泪指人的小白狗，配文“你给我等着”",
+      "roles": [
+        "dog",
+        "person"
+      ],
+      "emotions": [],
+      "actions": [
+        "cry",
+        "wait"
+      ],
+      "tags": [
+        "dog",
+        "person",
+        "cry",
+        "wait"
+      ]
+    },
+    {
+      "id": "puppy-holding-leash-happy",
+      "file": "puppy-holding-leash-happy.jpg",
+      "path": "stickers-batch3/stickers/puppy-holding-leash-happy.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只主动叼着牵引绳，看起来很高兴的小白狗",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "dog",
+        "happy",
+        "watch"
+      ]
+    },
+    {
+      "id": "puppy-kiss-mark-coaxed",
+      "file": "puppy-kiss-mark-coaxed.jpg",
+      "path": "stickers-batch3/stickers/puppy-kiss-mark-coaxed.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只脑袋上有吻痕的小白狗，配文“就哄好了”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "dog",
+        "affectionate",
+        "kiss"
+      ]
+    },
+    {
+      "id": "puppy-money-how-much-is-love",
+      "file": "puppy-money-how-much-is-love.jpg",
+      "path": "stickers-batch3/stickers/puppy-money-how-much-is-love.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只叼着钱眼泪汪汪的小白狗，配文“请问一份爱多少钱”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "dog",
+        "affectionate",
+        "cry"
+      ]
+    },
+    {
+      "id": "puppy-ready-to-be-worse",
+      "file": "puppy-ready-to-be-worse.jpg",
+      "path": "stickers-batch3/stickers/puppy-ready-to-be-worse.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只看起来很坏的小白狗，配文“准备更坏”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "dog",
+        "watch"
+      ]
+    },
+    {
+      "id": "puppy-sunglasses-jumping",
+      "file": "puppy-sunglasses-jumping.jpg",
+      "path": "stickers-batch3/stickers/puppy-sunglasses-jumping.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只蹦的很高的戴墨镜小白狗，配文“小狗得志”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "id": "puppy-teary-waiting-for-reply",
+      "file": "puppy-teary-waiting-for-reply.jpg",
+      "path": "stickers-batch3/stickers/puppy-teary-waiting-for-reply.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只眼泪汪汪看着手机的小白狗，配文“等回复”",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry",
+        "wait",
+        "watch",
+        "message"
+      ],
+      "tags": [
+        "dog",
+        "sad",
+        "cry",
+        "wait",
+        "watch",
+        "message"
+      ]
+    },
+    {
+      "id": "puppy-teary-wronged",
+      "file": "puppy-teary-wronged.jpg",
+      "path": "stickers-batch3/stickers/puppy-teary-wronged.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只眼泪汪汪、委屈巴巴的小白狗",
+      "roles": [
+        "dog"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "dog",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "siamese-awkward-on-box",
+      "file": "siamese-awkward-on-box.jpg",
+      "path": "stickers-batch3/stickers/siamese-awkward-on-box.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只坐在箱子上看起来有些尴尬的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "watch"
+      ]
+    },
+    {
+      "id": "siamese-being-patted",
+      "file": "siamese-being-patted.jpg",
+      "path": "stickers-batch3/stickers/siamese-being-patted.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只在被摸头的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "pet"
+      ],
+      "tags": [
+        "cat",
+        "pet"
+      ]
+    },
+    {
+      "id": "siamese-crying-busy-overtime",
+      "file": "siamese-crying-busy-overtime.jpg",
+      "path": "stickers-batch3/stickers/siamese-crying-busy-overtime.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只哭哭暹罗猫，配文“好忙，在加班”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "tired"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "tired",
+        "cry"
+      ]
+    },
+    {
+      "id": "siamese-disgusted",
+      "file": "siamese-disgusted.jpg",
+      "path": "stickers-batch3/stickers/siamese-disgusted.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只表情嫌弃的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "siamese-eager-to-try",
+      "file": "siamese-eager-to-try.jpg",
+      "path": "stickers-batch3/stickers/siamese-eager-to-try.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只跃跃欲试的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "siamese-face-held-shy",
+      "file": "siamese-face-held-shy.jpg",
+      "path": "stickers-batch3/stickers/siamese-face-held-shy.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只被捧着脸害羞的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "shy"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "shy"
+      ]
+    },
+    {
+      "id": "siamese-fuming",
+      "file": "siamese-fuming.jpg",
+      "path": "stickers-batch3/stickers/siamese-fuming.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只气得冒烟的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "angry"
+      ]
+    },
+    {
+      "id": "siamese-hearts-snuggling",
+      "file": "siamese-hearts-snuggling.jpg",
+      "path": "stickers-batch3/stickers/siamese-hearts-snuggling.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只头顶冒爱心，正在贴贴的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "hug"
+      ],
+      "tags": [
+        "cat",
+        "affectionate",
+        "hug"
+      ]
+    },
+    {
+      "id": "siamese-hmph-proud",
+      "file": "siamese-hmph-proud.jpg",
+      "path": "stickers-batch3/stickers/siamese-hmph-proud.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只看起来很傲娇的暹罗猫，配文“哼”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sulky"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "sulky",
+        "watch"
+      ]
+    },
+    {
+      "id": "siamese-paw-up-yay",
+      "file": "siamese-paw-up-yay.jpg",
+      "path": "stickers-batch3/stickers/siamese-paw-up-yay.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只高兴举爪的暹罗猫，配文“好耶”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "happy"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "happy"
+      ]
+    },
+    {
+      "id": "siamese-peeking",
+      "file": "siamese-peeking.jpg",
+      "path": "stickers-batch3/stickers/siamese-peeking.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只探头探脑的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "suspicious"
+      ],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "suspicious",
+        "watch"
+      ]
+    },
+    {
+      "id": "siamese-petted-confused",
+      "file": "siamese-petted-confused.jpg",
+      "path": "stickers-batch3/stickers/siamese-petted-confused.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只在被撸但表示疑问的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [
+        "pet"
+      ],
+      "tags": [
+        "cat",
+        "confused",
+        "pet"
+      ]
+    },
+    {
+      "id": "siamese-phone-under-blanket",
+      "file": "siamese-phone-under-blanket.jpg",
+      "path": "stickers-batch3/stickers/siamese-phone-under-blanket.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只窝在被子里看手机的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep",
+        "call",
+        "watch",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "tired",
+        "sleep",
+        "call",
+        "watch",
+        "message"
+      ]
+    },
+    {
+      "id": "siamese-please-dont-go",
+      "file": "siamese-please-dont-go.jpg",
+      "path": "stickers-batch3/stickers/siamese-please-dont-go.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只委屈巴巴不想让人走的暹罗猫",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "person",
+        "sad"
+      ]
+    },
+    {
+      "id": "siamese-proud-praise-me",
+      "file": "siamese-proud-praise-me.jpg",
+      "path": "stickers-batch3/stickers/siamese-proud-praise-me.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只傲娇的暹罗猫，配文“快夸我”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sulky"
+      ],
+      "actions": [
+        "praise"
+      ],
+      "tags": [
+        "cat",
+        "sulky",
+        "praise"
+      ]
+    },
+    {
+      "id": "siamese-running-fast",
+      "file": "siamese-running-fast.jpg",
+      "path": "stickers-batch3/stickers/siamese-running-fast.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只正在飞奔的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "run"
+      ],
+      "tags": [
+        "cat",
+        "run"
+      ]
+    },
+    {
+      "id": "siamese-slightly-disgusted",
+      "file": "siamese-slightly-disgusted.jpg",
+      "path": "stickers-batch3/stickers/siamese-slightly-disgusted.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只看起来有些嫌弃的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "watch"
+      ]
+    },
+    {
+      "id": "siamese-so-mean-glaring",
+      "file": "siamese-so-mean-glaring.jpg",
+      "path": "stickers-batch3/stickers/siamese-so-mean-glaring.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只生气的暹罗猫，配文“太坏了，准备拿眼睛去瞪”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "marry"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "marry"
+      ]
+    },
+    {
+      "id": "siamese-so-mean-sulky-angry",
+      "file": "siamese-so-mean-sulky-angry.jpg",
+      "path": "stickers-batch3/stickers/siamese-so-mean-sulky-angry.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只生气的暹罗猫，配文“太坏了，决定委屈地生气”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad",
+        "angry",
+        "sulky"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "sad",
+        "angry",
+        "sulky"
+      ]
+    },
+    {
+      "id": "siamese-starry-eyes-expecting",
+      "file": "siamese-starry-eyes-expecting.jpg",
+      "path": "stickers-batch3/stickers/siamese-starry-eyes-expecting.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只星星眼，看起来很期待的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "watch"
+      ]
+    },
+    {
+      "id": "siamese-starry-eyes-snuggle",
+      "file": "siamese-starry-eyes-snuggle.jpg",
+      "path": "stickers-batch3/stickers/siamese-starry-eyes-snuggle.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只星星眼跟人贴贴的暹罗猫",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "hug"
+      ],
+      "tags": [
+        "cat",
+        "person",
+        "affectionate",
+        "hug"
+      ]
+    },
+    {
+      "id": "siamese-stunned-wide-eyes",
+      "file": "siamese-stunned-wide-eyes.jpg",
+      "path": "stickers-batch3/stickers/siamese-stunned-wide-eyes.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只瞪大眼睛，表情呆滞的暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "confused"
+      ]
+    },
+    {
+      "id": "siamese-wronged-crying",
+      "file": "siamese-wronged-crying.jpg",
+      "path": "stickers-batch3/stickers/siamese-wronged-crying.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只委屈哭哭暹罗猫",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "cry"
+      ]
+    },
+    {
+      "id": "siamese-wronged-nuzzling",
+      "file": "siamese-wronged-nuzzling.jpg",
+      "path": "stickers-batch3/stickers/siamese-wronged-nuzzling.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "一只委屈蹭人的暹罗猫",
+      "roles": [
+        "cat",
+        "person"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "person",
+        "sad"
+      ]
+    },
+    {
+      "id": "text-gibberish-want-kiss",
+      "file": "text-gibberish-want-kiss.jpg",
+      "path": "stickers-batch3/stickers/text-gibberish-want-kiss.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，“叽里咕噜说什么呢，听不懂想亲”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate",
+        "playful"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "affectionate",
+        "playful",
+        "kiss"
+      ]
+    },
+    {
+      "id": "text-i-know-thats-my-wife",
+      "file": "text-i-know-thats-my-wife.jpg",
+      "path": "stickers-batch3/stickers/text-i-know-thats-my-wife.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，“天杀的，我一看就知道这是我老婆”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "id": "text-i-want-a-kiss",
+      "file": "text-i-want-a-kiss.jpg",
+      "path": "stickers-batch3/stickers/text-i-want-a-kiss.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“我要亲嘴”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [
+        "kiss"
+      ],
+      "tags": [
+        "affectionate",
+        "kiss"
+      ]
+    },
+    {
+      "id": "text-is-loving-gege-my-fault",
+      "file": "text-is-loving-gege-my-fault.jpg",
+      "path": "stickers-batch3/stickers/text-is-loving-gege-my-fault.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“爱上哥哥难道是我的错吗”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "affectionate"
+      ]
+    },
+    {
+      "id": "text-little-husband-stop",
+      "file": "text-little-husband-stop.jpg",
+      "path": "stickers-batch3/stickers/text-little-husband-stop.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“小娇夫别闹”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": []
+    },
+    {
+      "id": "text-seduced-dont-let-me-go",
+      "file": "text-seduced-dont-let-me-go.jpg",
+      "path": "stickers-batch3/stickers/text-seduced-dont-let-me-go.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“已被勾引，请加大力度，别放过我”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "flirtatious"
+      ],
+      "actions": [],
+      "tags": [
+        "flirtatious"
+      ]
+    },
+    {
+      "id": "text-total-succubus",
+      "file": "text-total-succubus.jpg",
+      "path": "stickers-batch3/stickers/text-total-succubus.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“md，纯魅魔”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "flirtatious"
+      ],
+      "actions": [],
+      "tags": [
+        "flirtatious"
+      ]
+    },
+    {
+      "id": "text-was-then-now-pervert",
+      "file": "text-was-then-now-pervert.jpg",
+      "path": "stickers-batch3/stickers/text-was-then-now-pervert.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“名声在外，有好有坏，以前是以前，现在是变态”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "flirtatious"
+      ],
+      "actions": [],
+      "tags": [
+        "flirtatious"
+      ]
+    },
+    {
+      "id": "text-your-coldness-hurts",
+      "file": "text-your-coldness-hurts.jpg",
+      "path": "stickers-batch3/stickers/text-your-coldness-hurts.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "文字表情包，配文“你的冷漠让我难过到想喂你吃……”",
+      "roles": [
+        "other"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "sad"
+      ]
+    },
+    {
+      "id": "two-cats-want-to-sleep-with-you",
+      "file": "two-cats-want-to-sleep-with-you.jpg",
+      "path": "stickers-batch3/stickers/two-cats-want-to-sleep-with-you.jpg",
+      "batch": "batch3",
+      "format": "jpg",
+      "description_zh": "贴在一起的两只小猫，配文“想和你睡觉”",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "cat",
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "angry-cat-biting",
+      "file": "angry-cat-biting.jpg",
+      "path": "stickers/angry-cat-biting.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "气呼呼咬东西：咬",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "bite"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "bite"
+      ]
+    },
+    {
+      "id": "angry-cat-red-anger-emoji",
+      "file": "angry-cat-red-anger-emoji.jpg",
+      "path": "stickers/angry-cat-red-anger-emoji.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "额头红色怒气",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "angry"
+      ]
+    },
+    {
+      "id": "annoyed-cat-anger-mark",
+      "file": "annoyed-cat-anger-mark.jpg",
+      "path": "stickers/annoyed-cat-anger-mark.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "满脸不爽 💢",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "angry"
+      ]
+    },
+    {
+      "id": "confused-cat-big-question-mark",
+      "file": "confused-cat-big-question-mark.jpg",
+      "path": "stickers/confused-cat-big-question-mark.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "头顶大问号",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "confused"
+      ]
+    },
+    {
+      "id": "cozy-cat-warm-blanket",
+      "file": "cozy-cat-warm-blanket.jpg",
+      "path": "stickers/cozy-cat-warm-blanket.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "暖好被窝，好舒服",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "tired"
+      ],
+      "actions": [
+        "sleep"
+      ],
+      "tags": [
+        "cat",
+        "tired",
+        "sleep"
+      ]
+    },
+    {
+      "id": "crying-cat-holding-phone",
+      "file": "crying-cat-holding-phone.jpg",
+      "path": "stickers/crying-cat-holding-phone.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "捧着手机大哭",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "cry",
+        "call",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "cry",
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "cute-cat-lying-sparkly-eyes",
+      "file": "cute-cat-lying-sparkly-eyes.png",
+      "path": "stickers/cute-cat-lying-sparkly-eyes.png",
+      "batch": "batch1",
+      "format": "png",
+      "description_zh": "趴着眼睛亮晶晶：咪",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "cute"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "cute"
+      ]
+    },
+    {
+      "id": "furious-cat-i-hate-it",
+      "file": "furious-cat-i-hate-it.jpg",
+      "path": "stickers/furious-cat-i-hate-it.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "我恨！！！",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "angry"
+      ]
+    },
+    {
+      "id": "happy-cat-playing-phone-in-bed",
+      "file": "happy-cat-playing-phone-in-bed.jpg",
+      "path": "stickers/happy-cat-playing-phone-in-bed.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "躺着玩手机超开心",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "happy",
+        "tired",
+        "flirtatious"
+      ],
+      "actions": [
+        "sleep",
+        "call",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "happy",
+        "tired",
+        "flirtatious",
+        "sleep",
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "knocked-out-cat-pancake",
+      "file": "knocked-out-cat-pancake.jpg",
+      "path": "stickers/knocked-out-cat-pancake.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "一拳被打成猫饼",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "angry"
+      ],
+      "actions": [
+        "hit"
+      ],
+      "tags": [
+        "cat",
+        "angry",
+        "hit"
+      ]
+    },
+    {
+      "id": "love-cat-floating-hearts",
+      "file": "love-cat-floating-hearts.jpg",
+      "path": "stickers/love-cat-floating-hearts.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "周围飘爱心",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "love-cat-rose-in-mouth",
+      "file": "love-cat-rose-in-mouth.jpg",
+      "path": "stickers/love-cat-rose-in-mouth.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "叼玫瑰满屏爱心",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "affectionate"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "affectionate"
+      ]
+    },
+    {
+      "id": "lucky-cat-holding-red-envelope",
+      "file": "lucky-cat-holding-red-envelope.png",
+      "path": "stickers/lucky-cat-holding-red-envelope.png",
+      "batch": "batch1",
+      "format": "png",
+      "description_zh": "小猫拿红包：九九成稀罕物",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "nervous-cat-cold-sweat",
+      "file": "nervous-cat-cold-sweat.jpg",
+      "path": "stickers/nervous-cat-cold-sweat.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "冒虚汗",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "shy"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "shy"
+      ]
+    },
+    {
+      "id": "ok-cat-raising-paw-received",
+      "file": "ok-cat-raising-paw-received.jpg",
+      "path": "stickers/ok-cat-raising-paw-received.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "举手：收到",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "panic-cat-lifted-by-scruff",
+      "file": "panic-cat-lifted-by-scruff.jpg",
+      "path": "stickers/panic-cat-lifted-by-scruff.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "被提后颈，冒汗瞪眼",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "peek-cat-hiding-behind-wall",
+      "file": "peek-cat-hiding-behind-wall.png",
+      "path": "stickers/peek-cat-hiding-behind-wall.png",
+      "batch": "batch1",
+      "format": "png",
+      "description_zh": "躲在墙边偷看",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [
+        "watch"
+      ],
+      "tags": [
+        "cat",
+        "watch"
+      ]
+    },
+    {
+      "id": "sad-cat-hiding-in-corner",
+      "file": "sad-cat-hiding-in-corner.jpg",
+      "path": "stickers/sad-cat-hiding-in-corner.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "缩在角落",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "sad"
+      ]
+    },
+    {
+      "id": "sad-cat-phone-broken-missing-you",
+      "file": "sad-cat-phone-broken-missing-you.jpg",
+      "path": "stickers/sad-cat-phone-broken-missing-you.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "手机坏掉了，收不到你的消息",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sad"
+      ],
+      "actions": [
+        "call",
+        "message"
+      ],
+      "tags": [
+        "cat",
+        "sad",
+        "call",
+        "message"
+      ]
+    },
+    {
+      "id": "smug-cat-squint-tsk",
+      "file": "smug-cat-squint-tsk.jpg",
+      "path": "stickers/smug-cat-squint-tsk.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "半眯眼不屑：啧",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [],
+      "actions": [],
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "id": "speechless-cat-ellipsis",
+      "file": "speechless-cat-ellipsis.jpg",
+      "path": "stickers/speechless-cat-ellipsis.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "一串省略号，无语",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused",
+        "playful"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "confused",
+        "playful"
+      ]
+    },
+    {
+      "id": "sulky-cat-stomping-feet",
+      "file": "sulky-cat-stomping-feet.jpg",
+      "path": "stickers/sulky-cat-stomping-feet.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "跺脚耍小脾气",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "sulky"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "sulky"
+      ]
+    },
+    {
+      "id": "suspicious-cat-something-is-off",
+      "file": "suspicious-cat-something-is-off.jpg",
+      "path": "stickers/suspicious-cat-something-is-off.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "不对劲",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "suspicious"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "suspicious"
+      ]
+    },
+    {
+      "id": "teasing-cat-tongue-out",
+      "file": "teasing-cat-tongue-out.jpg",
+      "path": "stickers/teasing-cat-tongue-out.jpg",
+      "batch": "batch1",
+      "format": "jpg",
+      "description_zh": "歪头吐舌头：略——！",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "playful"
+      ],
+      "actions": [],
+      "tags": [
+        "cat",
+        "playful"
+      ]
+    },
+    {
+      "id": "thinking-cat-hand-on-chin",
+      "file": "thinking-cat-hand-on-chin.png",
+      "path": "stickers/thinking-cat-hand-on-chin.png",
+      "batch": "batch1",
+      "format": "png",
+      "description_zh": "托手思考",
+      "roles": [
+        "cat"
+      ],
+      "emotions": [
+        "confused"
+      ],
+      "actions": [
+        "think"
+      ],
+      "tags": [
+        "cat",
+        "confused",
+        "think"
+      ]
+    }
+  ]
+}
