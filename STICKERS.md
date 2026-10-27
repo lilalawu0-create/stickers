@@ -4,9 +4,9 @@
 
 ## 规模
 
-- 总数：312
-- 批次：batch2-part1 95 张；batch2-part2 94 张；batch3 98 张；batch1 25 张
-- 格式：JPG 251；PNG 43；GIF 13；WEBP 5
+- 总数：313
+- 批次：batch2-part1 95 张；batch2-part2 94 张；batch3 98 张；batch1 25 张；batch4 1 张
+- 格式：JPG 251；PNG 44；GIF 13；WEBP 5
 
 ## 检索方式
 

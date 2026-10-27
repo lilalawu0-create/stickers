@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repository": "lilalawu0-create/stickers",
   "generated_on": "2026-10-25",
-  "total": 312,
+  "total": 313,
   "note": "Existing image paths are preserved. Tags are filename/README-derived and may be refined manually.",
   "stickers": [
     {
@@ -6140,6 +6140,27 @@
         "cat",
         "confused",
         "think"
+      ]
+    },
+    {
+      "id": "everyone-plugins-explode",
+      "file": "everyone-plugins-explode.png",
+      "path": "stickers-batch4/stickers/everyone-plugins-explode.png",
+      "batch": "batch4",
+      "format": "png",
+      "description_zh": "“大家的插件都会炸”，鲸鱼尾小女孩在一堆报错弹窗和 bug 前开心张开双手",
+      "roles": [
+        "person"
+      ],
+      "emotions": [
+        "happy",
+        "playful"
+      ],
+      "actions": [],
+      "tags": [
+        "person",
+        "happy",
+        "playful"
       ]
     }
   ]
